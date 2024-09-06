@@ -22,3 +22,7 @@ def is_happy_number(n):
 
 
 print(is_happy_number(2147483646))
+
+
+def hello_world():
+    print("aa")
